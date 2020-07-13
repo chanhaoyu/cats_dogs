@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/Howie/anaconda3/envs/keras/bin/python"
+    "python.pythonPath": "/home/Howie/anaconda3/envs/keras/bin/python",
+    "git.ignoreLimitWarning": true
 }
